@@ -29,7 +29,7 @@ Key insights:
 
 ## Tools & Skills Used
 
-SQL: Querying, joins, subqueries, aggregation, window functions
-Database Systems: (e.g., MySQL / PostgreSQL / SQLite — specify yours)
-Data Analysis: Identifying trends, relationships, and summaries
-Data Cleaning: Removing duplicates, handling missing values, standardizing formats
+- SQL: Querying, joins, subqueries, aggregation, window functions
+- Database Systems: (e.g., MySQL / PostgreSQL / SQLite — specify yours)
+- Data Analysis: Identifying trends, relationships, and summaries
+- Data Cleaning: Removing duplicates, handling missing values, standardizing formats
