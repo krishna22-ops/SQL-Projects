@@ -19,7 +19,7 @@ Key insights:
 - Authors with the most works
 - Highest-rated books per category
 
-## Movies Database
+## CineInsight Database
 Dataset: Movies with details like genre, release year, ratings, and box office
 Focus: Understanding cinema trends
 Key insights:
