@@ -27,6 +27,9 @@ Key insights:
 - Top-rated movies per genre
 - Box office vs ratings correlations
 
+## BMW Car Sales
+- Currentlt working on it.
+
 ## Tools & Skills Used
 
 - SQL: Querying, joins, subqueries, aggregation, window functions
